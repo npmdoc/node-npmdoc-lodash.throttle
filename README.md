@@ -1,4 +1,7 @@
-# api documentation for  [lodash.throttle (v4.1.1)](https://lodash.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-lodash.throttle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lodash.throttle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lodash.throttle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lodash.throttle)
+# npmdoc-lodash.throttle
+
+#### basic api documentation for  [lodash.throttle (v4.1.1)](https://lodash.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-lodash.throttle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lodash.throttle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lodash.throttle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lodash.throttle)
+
 #### The lodash method `_.throttle` exported as a module.
 
 [![NPM](https://nodei.co/npm/lodash.throttle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lodash.throttle)
@@ -74,7 +77,8 @@
     "scripts": {
         "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
     },
-    "version": "4.1.1"
+    "version": "4.1.1",
+    "bin": {}
 }
 ```
 
